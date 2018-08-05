@@ -1,8 +1,7 @@
+call gitbook build
 rd /s /q _book
 rd /s /q docs
 
-call gitbook install
-call gitbook build
 
 call xcopy _book\*.* docs\ /e /h /k
 
