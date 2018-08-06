@@ -1,0 +1,3 @@
+# Magnifier
+<img src="../content/mag.gif"/>
+The <code>Magnifier</code> button ...  

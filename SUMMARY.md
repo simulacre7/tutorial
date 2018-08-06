@@ -8,4 +8,8 @@
 * [Random movies panel](four-main-view/rand.md)
 
 ## Interactions
-* [Plus/Minus](interactions/plus.md)
+* [Mouse-hover](interactions/hover.md)
+* [Plus & Minus button](interactions/plus.md)
+* [Magnifier](interactions/magnifier.md)
+* [Play button](interactions/play.md)
+* [Keep checkbox](interactions/keep.md)
