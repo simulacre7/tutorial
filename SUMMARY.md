@@ -13,3 +13,4 @@
 * [Magnifier](interactions/magnifier.md)
 * [Play button](interactions/play.md)
 * [Keep checkbox](interactions/keep.md)
+* [Filter](interactions/filter.md)
